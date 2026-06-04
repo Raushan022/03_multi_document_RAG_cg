@@ -1,0 +1,40 @@
+# Environment variables
+
+.env
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# JetBrains IDEs
+
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# FAISS vector store (large generated files)
+
+faiss_index/
+
+# PDF documents
+
+data/
+
+# Logs
+
+*.log
